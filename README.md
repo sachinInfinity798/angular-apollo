@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
-# First take a git clone of this repository and After that go that directory like from terminal
-
- cd angular-apollo (path of your syatem directory) and then Run npm install
+# Install npm module
+First take a git clone of this repository and After that go that directory from terminal cd angular-apollo (path of your syatem directory) and then Run npm install
+ 
 
 ## Development server
 
